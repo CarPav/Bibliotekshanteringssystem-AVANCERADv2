@@ -1,0 +1,48 @@
+﻿{
+    "books": [
+        {
+            "Title": "En titel 1",
+            "ID": 1,
+            "Author": "En författare",
+            "Genre": "Skräck",
+            "YearPublished": 1999,
+            "ISBN": 1111,
+            "Reviews": [ 3, 4, 5 ]
+        },
+        {
+            "Title": "En titel 2",
+            "ID": 2,
+            "Author": "En författare",
+            "Genre": "Drama",
+            "YearPublished": 1952,
+            "ISBN": 2222,
+            "Reviews": [ 3, 4, 2 ]
+        },
+        {
+            "Title": "En titel 3",
+            "ID": 3,
+            "Author": "En författare",
+            "Genre": "Romantik",
+            "YearPublished": 2001,
+            "ISBN": 3333,
+            "Reviews": [ 3, 4, 3 ]
+        }
+    ],
+    "authors": [
+        {
+            "Name": "Kent",
+            "ID": 1,
+            "Country": "Norway"
+        },
+        {
+            "Name": "Emma",
+            "ID": 2,
+            "Country": "Sweden"
+        },
+        {
+            "Name": "Ralph",
+            "ID": 3,
+            "Country": "USA"
+        }
+    ]
+}
